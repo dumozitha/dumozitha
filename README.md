@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Obert Dumolwakhe Zitha</h1>
-<h3 align="center">I am Passionate about System/Cloud Engineering and Software Development fullstack from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&pid=Api&P=0">
+<h1 align="center">Hi 👋, I'm Obert Dumolwakeh Zitha</h1>
+<h3 align="center">I am Passionate about System/Cloud Engineering and Software Engineeering fullstack from South Africa</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumozitha&label=Profile%20views&color=0e75b6&style=flat" alt="dumozitha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dumozitha" alt="dumozitha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/dumozitha" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dumozitha?logo=twitter&style=for-the-badge" alt="https://twitter.com/dumozitha" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering with ALX Africa**
 
@@ -22,10 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/dumozitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dumozitha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/obert-zitha-051504122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obert-zitha-051504122/" height="30" width="40" /></a>
-<a href="https://fb.com/obtizo dumo zitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obtizo dumo zitha" height="30" width="40" /></a>
-<a href="https://instagram.com/@obtizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@obtizo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dumozitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dumozitha" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/obtzo.dumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/obtzo.dumo" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/obtizo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/obtizo/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucya0f7zw38t3c-bxg4nkcmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucya0f7zw38t3c-bxg4nkcmq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dumozitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dumozitha" height="30" width="40" /></a>
 </p>
 
