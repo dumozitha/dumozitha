@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obert Dumolwakeh Zitha</h1>
+<h1 align="center">Hi 👋, I'm Obert Dumolwakhe Zitha</h1>
 <h3 align="center">I am Passionate about Software Development fullstack from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&pid=Api&P=0">
 
