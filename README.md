@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obert Dumolwakeh Zitha</h1>
+<h1 align="center">Hi 👋, I'm Obert Dumolwakhe Zitha</h1>
 <h3 align="center">I am Passionate about System/Cloud Engineering and Software Engineeering fullstack from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Engineering with ALX Africa**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/obert-zitha-051504122/](https://www.linkedin.com/in/obert-zitha-051504122/)
+- 👨‍💻 All of my projects are available at [https://github.com/dumozitha/](https://github.com/dumozitha/)
 
 - 💬 Ask me about **Cloud Technology, AWS, Azure, GCP, HUAWEI and ETC**
 
