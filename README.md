@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obert Dumolwakhe Zitha</h1>
-<h3 align="center">I am Passionate about Software Development fullstack from South Africa</h3>
+<h3 align="center">I am Passionate about System/Cloud Engineering and Software Development fullstack from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.-EGsK--u3aJAxVoGsjsz7AHaFj&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumozitha&label=Profile%20views&color=0e75b6&style=flat" alt="dumozitha" /> </p>
